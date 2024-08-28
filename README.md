@@ -4,11 +4,12 @@ I'm a passionate Data Scientist with a keen interest in Data Science and Hacking
 
 💡 What I’m Interested In:
 Data Science: I love working with data, building models, and applying machine learning techniques to solve real-world problems.
-Hacking & Cybersecurity: I'm fascinated by ethical hacking and cybersecurity, constantly learning about new techniques to protect data.
+Cybersecurity: I'm fascinated by ethical hacking and cybersecurity, constantly learning about new techniques to protect data.
 
 🌱 Current Focus:
 I’m currently enhancing my skills in:
 Advanced Machine Learning: Experimenting with anomaly behaviour.
+Data Analysis: Tableau Journey of Data vizualisation.  
 Data Engineering: Building robust data pipelines and working with big data technologies and vizualizations.
 Cybersecurity Practices: Learning more about ethical hacking and cybersecurity measures.
 
