@@ -17,9 +17,13 @@ Data Engineering: Building robust data pipelines and working with big data techn
 Cybersecurity Practices: Learning more about ethical hacking and cybersecurity measures.
 
 📫 How to Reach Me:
+
 Email: gabrielrdavid@gmail.com
+
 LinkedIn: linkedin.com/in/gabrielheribeiro
+
 Medium: https://medium.com/@gabrielhribeiro
+
 Feel free to check out my repositories and connect with me!
 
 <!---
