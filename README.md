@@ -9,8 +9,11 @@ Cybersecurity: I'm fascinated by ethical hacking and cybersecurity, constantly l
 🌱 Current Focus:
 I’m currently enhancing my skills in:
 Advanced Machine Learning: Experimenting with anomaly behaviour.
+
 Data Analysis: Tableau Journey of Data vizualisation.  
+
 Data Engineering: Building robust data pipelines and working with big data technologies and vizualizations.
+
 Cybersecurity Practices: Learning more about ethical hacking and cybersecurity measures.
 
 📫 How to Reach Me:
